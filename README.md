@@ -1,3 +1,12 @@
+This project was created following the [official react tutorial](https://reactjs.org/tutorial/tutorial.html).
+
+
+
+
+
+ 
+## Execution Details
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
